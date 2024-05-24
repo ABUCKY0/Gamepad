@@ -13,6 +13,6 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - uses: ABUCKY0/pros-build@e5b72507090341921a8194b4fadbe6dd5d1abd3c
+      - uses: ABUCKY0/pros-build@0cee92b2c04508f6b29bd02e8f6adfa31cdbc8f5
         with:
           library-path: gamepad
